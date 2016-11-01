@@ -1,5 +1,5 @@
 /**
- * Created by dtroxx on 10/31/2016.
+ * Title Case a Sentence - Created by dtroxx on 10/31/2016.
  */
 // function titleCase(str) {
 //     var newArr = []; // declare empty holder array
